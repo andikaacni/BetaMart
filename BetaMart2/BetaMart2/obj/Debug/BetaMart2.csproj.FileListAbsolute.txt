@@ -1,0 +1,29 @@
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+D:\Project C#\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+D:\Project C#\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csprojResolveAssemblyReference.cache
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+C:\Users\Maulana Reza gntg\Downloads\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
+E:\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe.config
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.exe
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.pdb
+E:\BetaMart2\BetaMart2\BetaMart2\bin\Debug\betamart.accdb
+E:\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.exe
+E:\BetaMart2\BetaMart2\BetaMart2\bin\Debug\BetaMart2.pdb
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csprojResolveAssemblyReference.cache
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Form1.resources
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.Properties.Resources.resources
+E:\BetaMart2\BetaMart2\BetaMart2\obj\Debug\BetaMart2.csproj.GenerateResource.Cache
